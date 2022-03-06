@@ -1,10 +1,10 @@
 # TTOC
 TTOC (TwentyTwentyOne-Child) is a WordPress child theme for displaying all single posts
 
-![]()
+
 
 <p align="center">
-  <img width="460" height="300" src="https://github.com/ZahraMaleki94/ttoc/blob/main/TTOC.gif">
+  <img width="800" height="400" src="https://github.com/ZahraMaleki94/ttoc/blob/main/TTOC.gif">
 </p>
 
 ## prerequisite
