@@ -1,0 +1,16 @@
+.posts-wrapper {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 8px;
+}
+
+.loading {
+    opacity: .35;
+    pointer-events: none;
+}
+
+@media (max-width: 768px) {
+    .posts-wrapper {
+        grid-template-columns: 1fr;
+    }
+}
