@@ -1,5 +1,5 @@
 # TTOC
-TTOC (TwentyTwentyOne-Child) is a WordPress child theme for displaying all single posts
+## TTOC (TwentyTwentyOne-Child) is a WordPress child theme for displaying all single posts
 
 
 
