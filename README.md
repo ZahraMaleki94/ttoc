@@ -8,11 +8,12 @@
 </p>
 
 ## prerequisite
-Please make sure you set twentytwentyone theme
+Please make sure you have twentytwentyone theme
 
 ### Installation
 1. add the .zip file to apeaance/theme/newtheme
-2. upload and active
+2. upload and active the theme
 3. create several posts(at least 4 posts with title, featured image and excerpt)
-4. go to Pages/create new page with template → Post 
+4. go to Pages/create new page with template → Post
+5. Enjoy :)
 
